@@ -1,0 +1,1 @@
+# Enforced-Uninstall-Linux-Application
